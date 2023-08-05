@@ -5,8 +5,8 @@
 <p align="center">External Counter-Strike: Global Offensive cheat, written in C++</p>
 
 <span>
-  <img  src="imgs/img1 (2).png" width=45%></img>
-  <img  src="imgs/img2.png" width=45%></img> 
+  <img  src="imgs/img1 (2).png" width=49%></img>
+  <img  src="imgs/img2.png" width=49%></img> 
 </span>
 
 ## Description
