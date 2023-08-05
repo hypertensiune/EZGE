@@ -23,5 +23,14 @@ An external **_Counter-Strike: Global Offensive_** cheat, written in C++. This p
 - No flashbang
 - Skin changer
 
-## Build project
-Download the project and build it with Visual Studio 2022 (preferably the latest edition)
+## How to use
+
+### Build the project
+Download the project and build it with Visual Studio 2022 (preferably the latest edition).
+
+### Run
+Run the .exe after the game started.
+
+## Mentions
+The UI was built with [ImGui](https://github.com/ocornut/imgui). <br>
+[Hazedumper](https://github.com/frk1/hazedumper) for the memory offsets.
